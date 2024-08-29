@@ -1,1 +1,1 @@
-Built a mogistic regression-based machine learning model to detect fraudulent customers while providing consumer durable loans. Performed a thorough data analysis in Python to identify key features,a chieving a model accuracy of 96%
+Built a mogistic regression-based machine learning model to detect fraudulent customers while providing consumer durable loans. Performed a thorough data analysis in Python to identify key features, achieving a model accuracy of 96%
